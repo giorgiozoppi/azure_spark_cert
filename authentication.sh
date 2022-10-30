@@ -1,0 +1,2 @@
+export DATABRICKS_AAD_TOKEN=<
+
